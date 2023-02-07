@@ -1,7 +1,6 @@
 ############################################
 # Action recognition app
 # George Dechichi Barbar
-# https://youtu.be/doDUihpj6ro
 ############################################
 
 from ast import Not
